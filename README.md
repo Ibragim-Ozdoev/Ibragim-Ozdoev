@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="https://unsplash.com" alt="Banner" width="100%">
+  <img src="banner.gif" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Привет, я Ибрагим! 👋</h1>
 
 <p align="center">
-  <img src="<img width="498" height="266" alt="image" src="https://github.com/user-attachments/assets/fa0257b9-aebb-496a-8023-87288d7df69b" />
-" alt="Views">
+  <img src="https://komarev.com" alt="Views">
 </p>
 
 ---
