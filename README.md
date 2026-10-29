@@ -1,5 +1,4 @@
 <p align="center">
-  <!-- В src вставьте ссылку на ваш баннер, когда загрузите его -->
   <img src="https://unsplash.com" alt="Banner" width="100%">
 </p>
 
