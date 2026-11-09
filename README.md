@@ -78,10 +78,8 @@ As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively 
   <br />
   <!-- Tools & OS -->
   <img src="https://img.shields.io/badge/Linux-1c1917?style=for-the-badge&logo=linux&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Fedora-1c1917?style=for-the-badge&logo=fedora&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Docker-1c1917?style=for-the-badge&logo=docker&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/VS_Code-1c1917?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Vim-1c1917?style=for-the-badge&logo=vim&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Figma-1c1917?style=for-the-badge&logo=figma&logoColor=FFFFFF" />
 </p>
 
