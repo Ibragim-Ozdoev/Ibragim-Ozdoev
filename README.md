@@ -82,7 +82,6 @@
 ### <font face="Fira Code, Consolas" color="#FFFFFF">Connect & Socials</font>
 <p align="center">
   <a href="https://github.com/Ibragim-Ozdoev"><img src="https://img.shields.io/badge/GitHub-Ibragim--Ozdoev-1c1917?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0d1117" /></a>
-  <a href="https://t.me/AEGONIU"><img src="https://shields.io" /></a>
   <a href="https://discord.com/irrrrr7"><img src="https://img.shields.io/badge/Discord-irrrrr7-1c1917?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=0d1117" /></a>
 </p>
 
