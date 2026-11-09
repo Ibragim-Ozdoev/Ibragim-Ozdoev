@@ -37,7 +37,7 @@ As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Location-Ingushetia-1c1917?style=flat-square&logoColor=FFFFFF" />
-  <a href="mailto:sautievumar77@gmail.com"><img src="https://img.shields.io/badge/Email-sautievumar77%40gmail.com-1c1917?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:rozdoev0@gmail.com"><img src="https://img.shields.io/badge/Email-rozdoev0%40gmail.com-1c1917?style=flat-square&logo=gmail&logoColor=white" /></a>
   <br />
   <a href="https://github.com/Ibragim-Ozdoev/AndroidApp"><img src="https://img.shields.io/badge/Focus-Android_App_(Kotlin)-1c1917?style=flat-square&logo=android&logoColor=FFFFFF" /></a>
   <a href="https://github.com/Barakhoev/java-task-management"><img src="https://img.shields.io/badge/Featured-Java_Task_Management-1c1917?style=flat-square&logo=java&logoColor=FFFFFF" /></a>
@@ -103,10 +103,7 @@ As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively 
 
 <p align="center">
   <a href="https://github.com/Ibragim-Ozdoev"><img src="https://img.shields.io/badge/GitHub-Ibragim--Ozdoev-1c1917?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0d1117" /></a>
-  <a href="https://x.com/connik26"><img src="https://img.shields.io/badge/X-connik26-1c1917?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=0d1117" /></a>
-  <a href="https://twitch.tv/connik2"><img src="https://img.shields.io/badge/Twitch-connik2-1c1917?style=for-the-badge&logo=twitch&logoColor=FFFFFF&labelColor=0d1117" /></a>
-  <a href="https://youtube.com/@connik5150"><img src="https://img.shields.io/badge/YouTube-connik5150-1c1917?style=for-the-badge&logo=youtube&logoColor=FFFFFF&labelColor=0d1117" /></a>
-  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-connik8153-1c1917?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=0d1117" /></a>
+  <a href="https://discord.com/irrrrr7"><img src="https://img.shields.io/badge/Discord-connik8153-1c1917?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=0d1117" /></a>
 </p>
 
 <p align="center">
