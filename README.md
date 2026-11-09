@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fcd3c95d-c770-4f2c-bf4e-cd8419343e89" width="100%" alt="Banner" />
+  <img src="https://github.com" width="100%" alt="Banner" />
 </p>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=I'm+Ibragim+Ozdoev" alt="Ibragim Ozdoev" />
   <br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines="We’re not human, Ellie. We’re just... those who are still breathing.";Android+Developer;Kotlin+%26+Java+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Software+Engineer;Android+Developer;Kotlin+%26+Java+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="left">
@@ -82,6 +82,7 @@
 ### <font face="Fira Code, Consolas" color="#FFFFFF">Connect & Socials</font>
 <p align="center">
   <a href="https://github.com/Ibragim-Ozdoev"><img src="https://img.shields.io/badge/GitHub-Ibragim--Ozdoev-1c1917?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0d1117" /></a>
+  <a href="https://t.me/AEGONIU"><img src="https://shields.io" /></a>
   <a href="https://discord.com/irrrrr7"><img src="https://img.shields.io/badge/Discord-irrrrr7-1c1917?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=0d1117" /></a>
 </p>
 
