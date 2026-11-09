@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://pin.it" width="450" alt="Banner" />
+  <img src="https://vercel.app" width="100%" alt="Banner" />
 </p>
 
 <div align="center">
@@ -61,7 +60,7 @@
   <img src="https://shields.io" />
   <img src="https://shields.io" />
   <br />
-  <img src="https://shields.io" to />
+  <img src="https://shields.io" />
   <img src="https://shields.io" />
   <img src="https://shields.io" />
   <img src="https://shields.io" />
@@ -84,7 +83,7 @@
 
 ### <font face="Fira Code, Consolas" color="#FFFFFF">Connect & Socials</font>
 <p align="center">
-  <a href="https://github.com/Ibragim-Ozdoev"><img src="https://shields.io" /></a>
+  <a href="https://github.com"><img src="https://shields.io" /></a>
   <a href="https://t.me"><img src="https://shields.io" /></a>
   <a href="https://discord.com"><img src="https://shields.io" /></a>
 </p>
