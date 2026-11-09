@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://vercel.app" width="100%" alt="Banner" />
+  <img src=" <img width="601" height="338" alt="Без названия" src="https://github.com/user-attachments/assets/e02a449e-1083-4a37-8051-3ad59fba0566" />
+" width="100%" alt="Banner" />
 </p>
 
 <div align="center">
