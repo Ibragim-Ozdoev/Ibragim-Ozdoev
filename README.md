@@ -101,7 +101,7 @@ As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively 
 
 <p align="center">
   <a href="https://github.com/Ibragim-Ozdoev"><img src="https://img.shields.io/badge/GitHub-Ibragim--Ozdoev-1c1917?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0d1117" /></a>
-  <a href="https://discord.com/irrrrr7"><img src="https://img.shields.io/badge/Discord-connik8153-1c1917?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=0d1117" /></a>
+  <a href="https://discord.com/irrrrr7"><img src="https://img.shields.io/badge/Discord-irrrrr7-1c1917?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=0d1117" /></a>
 </p>
 
 <p align="center">
