@@ -21,6 +21,8 @@
   <font face="Segoe UI, sans-serif">
     As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively expanding my skillset in mobile application development, object-oriented design, and backend REST APIs.
   </font>
+  <font face="Segoe UI, sans-serif">
+    "We’re not human, Ellie. We’re just... those who are still breathing."
 </blockquote>
 
 <p align="left">
