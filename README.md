@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://youtu.be/wK_NlRiGRZs?si=QmbfmZ5XrlZiXzUA" width="100%" alt="Banner" />
+  <img src="https://github.com" width="100%" alt="Banner" />
 </p>
 
 <div align="center">
