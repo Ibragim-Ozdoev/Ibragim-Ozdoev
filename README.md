@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ru.pinterest.com/pin/640074165797114203/feedback/?invite_code=b062996d3ea64faf8c82c46e3df8175c&sender_id=1076641992076909118" width="450" alt="Banner" />
+  <img src="https:https://pin.it/b8iCu5yYm width="450" alt="Banner" />
 </p>
 <div align="center">
 
