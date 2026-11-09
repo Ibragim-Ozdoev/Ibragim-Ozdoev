@@ -1,22 +1,11 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a6da1a6d-6ace-426f-b36e-274fb2702534" width="100%" alt="Banner" />
+  <img src="https://github.com/user-attachments/assets/dae14324-8d53-4eee-a5f4-95b5776b5da0" width="100%" alt="Banner" />
 </p>
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=I'm+Ibragim+Ozdoev" alt="Ibragim Ozdoev" />
-
-<br />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Software+Engineer;Android+Developer;Kotlin+%26+Java+Enthusiast" alt="Typing SVG" />
-
-</div>
 
 <div align="center">
-
-<a href="https://open.spotify.com">
-  <img src="https://img.shields.io/badge/Spotify-Fixupboy%20--%20Tesla-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117" alt="Spotify Track" />
-</a>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=I'm+Ibragim+Ozdoev" alt="Ibragim Ozdoev" />
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Software+Engineer;Android+Developer;Kotlin+%26+Java+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="left">
@@ -28,11 +17,10 @@
 </p>
 
 ### <font face="Fira Code, Consolas" color="#FFFFFF">About Me</font>
-
 <blockquote>
-<font face="Segoe UI, sans-serif">
-As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively expanding my skillset in mobile application development, object-oriented design, and backend REST APIs.
-</font>
+  <font face="Segoe UI, sans-serif">
+    As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively expanding my skillset in mobile application development, object-oriented design, and backend REST APIs.
+  </font>
 </blockquote>
 
 <p align="left">
@@ -48,7 +36,6 @@ As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively 
 </p>
 
 ### <font face="Fira Code, Consolas" color="#FFFFFF">3D Contribution Graph</font>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ibragim-Ozdoev&theme=github_dark" alt="3D Graph" />
 </p>
@@ -58,7 +45,6 @@ As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively 
 </p>
 
 ### <font face="Fira Code, Consolas" color="#FFFFFF">Contribution Snake</font>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ibragim-Ozdoev/Ibragim-Ozdoev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
@@ -68,15 +54,12 @@ As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively 
 </p>
 
 ### <font face="Fira Code, Consolas" color="#FFFFFF">Tech Stack & Skills</font>
-
 <p align="left">
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/Kotlin-1c1917?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-1c1917?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-1c1917?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-1c1917?style=for-the-badge&logo=react&logoColor=white" />
   <br />
-  <!-- Tools & OS -->
   <img src="https://img.shields.io/badge/Linux-1c1917?style=for-the-badge&logo=linux&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Docker-1c1917?style=for-the-badge&logo=docker&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/VS_Code-1c1917?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF" />
@@ -88,7 +71,6 @@ As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively 
 </p>
 
 ### <font face="Fira Code, Consolas" color="#FFFFFF">Activity & Stats</font>
-
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibragim-Ozdoev&theme=dark&background=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
 </p>
@@ -98,9 +80,9 @@ As a passion-driven software engineer based in <b>Ingushetia</b>, I am actively 
 </p>
 
 ### <font face="Fira Code, Consolas" color="#FFFFFF">Connect & Socials</font>
-
 <p align="center">
   <a href="https://github.com/Ibragim-Ozdoev"><img src="https://img.shields.io/badge/GitHub-Ibragim--Ozdoev-1c1917?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0d1117" /></a>
+  <a href="https://t.me/AEGONIU"><img src="https://shields.io" /></a>
   <a href="https://discord.com/irrrrr7"><img src="https://img.shields.io/badge/Discord-irrrrr7-1c1917?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=0d1117" /></a>
 </p>
 
